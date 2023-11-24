@@ -14,3 +14,9 @@ cloudinary.com
 www.netlify.com
 stackoverflow.com
 www.gsmarena.com
+dolores.pl
+cloudns.cfd
+github.com
+bornato.com
+discord.gg
+arvan.online
